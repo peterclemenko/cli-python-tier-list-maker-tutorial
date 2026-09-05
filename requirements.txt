@@ -1,4 +1,4 @@
-anyio==4.1.0
+anyio==4.15.1
 certifi==2023.11.17
 charset-normalizer==3.3.2
 docopt==0.6.2
